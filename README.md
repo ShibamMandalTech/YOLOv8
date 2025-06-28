@@ -78,11 +78,11 @@
 
   <h3>2.2 Performance of YOLO Models for Weed Detection</h3>
   <p>YOLO models have been tested on various datasets to evaluate their effectiveness in weed detection. Studies have shown that YOLOv8 achieves the highest precision and recall, making it the most promising model for real-time applications.</p>
-  <div class="image-section">
-    <div class="image-container">
-      <img src="https://github.com/ShibamMandalTech/YOLOv8/blob/cc64e81c70b4141171f18f3e87e48509538db4ea/yolo1.png" alt="YOLO Performance Comparison">
-      <div class="caption">Figure 1: mAP vs Inference Time for YOLO and EfficientDet models</div>
+  <div class="image-container">
+      <img src="https://github.com/ShibamMandalTech/YOLOv8/blob/cc64e81c70b4141171f18f3e87e48509538db4ea/yolo1.png" alt="Dataset Examples">
+      <div class="caption">Figure 2: Sample Input Images and Annotations from Turfgrass Weed Datasets</div>
     </div>
+  
 </div>
 
 <div class="section">
@@ -93,6 +93,11 @@
 
   <h3>3.2 Weed Detection in Turfgrass</h3>
   <p>Turfgrass presents challenges due to its uniform background and dense vegetation. YOLO models have shown variable performance across species. YOLOv8 stands out for high detection rates in actively growing turfgrass.</p>
+  <div class="image-section">
+    <div class="image-container">
+      <img src="https://github.com/ShibamMandalTech/YOLOv8/blob/4396fa8969ce46c121dfb3ebb31241478ad66985/yolo2.png" alt="YOLO Performance Comparison">
+      <div class="caption">Figure 1: mAP vs Inference Time for YOLO and EfficientDet models</div>
+    </div>
 </div>
 
 <div class="section">
